@@ -19,7 +19,7 @@ This repository contains the code for **ReadMe Generator** application, allowing
 
 Checkout this [video](https://drive.google.com/file/d/1KWE5BaaetBDqDC-pbMLPncacwNTBrxkp/view) for a demo of the application.
 
-(https://raw.githubusercontent.com/leontran44/readme-generator/main/vids/readmegenerator.webm)
+[readmegenerator.webm](https://github.com/user-attachments/assets/5f0766fb-fe96-4cf0-9438-99a8a3487bdd)
 
 ## Installation
 
